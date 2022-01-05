@@ -1,3 +1,5 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 conflict resolved.
 =======
+=======
+>>>>>>> 72b19dc... conflict commited
