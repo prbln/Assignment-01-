@@ -1,7 +1,1 @@
-let's have a conflict!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
-
-yipeeeeeeeeeeeeeeeeeeeeeeeee
+conflict resolved.
